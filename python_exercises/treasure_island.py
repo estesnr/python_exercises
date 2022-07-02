@@ -40,6 +40,6 @@ if first_move == "left":
     else: 
       print('You have broken the rules of Treasure Island. You are torn apart by Mustakrakish, the Lake Troll.')
   else:
-    print('Attacked by a trout. Game Over.')
+    print('You are attacked and stabbed by mermaids. You have been murmaidered. Game Over.')
 else:
   print('Fall into a hole. Game Over.')
